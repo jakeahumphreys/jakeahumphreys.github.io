@@ -15,16 +15,15 @@ I have over two and a half years professional development experience working wit
 - <span>ASP.Net</span>
 - NHibernate / Entity Framework
 
-Interested in my experience? Visit my LinkedIn here: https://www.linkedin.com/in/jakehumphreys/
+Interested in my experience? Visit my [LinkedIn](https://www.linkedin.com/in/jakehumphreys/).
 
 
 In both my spare time and as a result of my university studies, I have written a number of projects that demonstrate my skills. I always strive to improve and welcome feedback whereveer possible.
 
-Interested in my projects? Visit my GitHub here: https://github.com/jakeahumphreys/
+Interested in my projects? Visit my [GitHub](https://github.com/jakeahumphreys/).
 
 ### About this website
-This website is hosted using GitHub's 'pages' feature, using Jekyll to generate static sites from Markdown, CSS and HTML.
+This website is hosted using GitHub's 'pages' feature, using Jekyll to generate static sites from Markdown, CSS and HTML. It's created using the wonderful [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme.
 
-View the source here: https://github.com/jakeahumphreys/jakeahumphreys.github.io/
+View the [source](https://github.com/jakeahumphreys/jakeahumphreys.github.io/).
 
-It's created using the wonderful Chirpy theme: https://github.com/cotes2020/jekyll-theme-chirpy
